@@ -22,6 +22,7 @@ Class A-B means there are min(2^A, 24) items and min(2^B, 24) possible different
 |I8|60001|72001|86001|102001|||
 |I16|120001|134001|150001|168001|188001||
 |I24|210001|222001|236001|252001|270001|290001|
+
 (I1, C1) = 1 means 1-item, 1-distractor color indices start from 1 (and ends at 6000, because the next class starts from 6001).
 **faulty_data.csv** aprses all valid incorrect responses. The data structure is like:
 | 0 (Pattern index) | 1 (Selection) |2 (RT) |3 (null)|
