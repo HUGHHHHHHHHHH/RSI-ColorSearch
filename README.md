@@ -14,7 +14,8 @@ The original raw data is in raw_data.xlsx. Col *ID* represents the unique ID of 
 |260159: sample pt_i| 21: 21st slot |1620 ms|   5-3   |
 
 Class A-B means there are min(2^A, 24) items and min(2^B, 24) possible different distractor colors. Class corresponds to Pattern index in the following rule:
-||C1|C2|C4|C8|C16|C24|
+|-|C1|C2|C4|C8|C16|C24|
+|-|-|-|-|-|-|-|
 |I1|1||||||
 |I2|6001|14001|||||
 |I4|24001|34001|46001||||
